@@ -1,3 +1,3 @@
-![Image Alt text](/images/img.jpg
 
-![Image Alt text](/images/img.jpg "Optional title"))
+
+![Image Alt text](Portfolio_page-0001.jpg "Optional title"))
